@@ -38,4 +38,5 @@ class Deprecated
    * @deprecated 1.0.0 No longer used by internal code and not recommended.
    */
   function deprecatedVersionAdditionalInformation() { }
+
 }
