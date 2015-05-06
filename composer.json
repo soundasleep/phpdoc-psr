@@ -1,0 +1,9 @@
+{
+  "name": "soundasleep/phpdoc-psr",
+  "description": "Reference examples of the proposed PHPDoc standard",
+  "autoload": {
+    "psr-4": {
+      "PHPDoc2\\Psr": "src"
+    }
+  }
+}
